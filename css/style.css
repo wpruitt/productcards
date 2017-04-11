@@ -1,0 +1,27 @@
+article {
+	display: inline-block;
+	border: 1px solid lightblue;
+	width: 30%;
+	margin: 1px;
+}
+article header h2 {
+	border: 1px dotted lightgray;
+	border-position: bottom;
+}
+img, h2 {
+	display: block;
+	margin: auto;
+}
+h2 {
+	text-align: center;
+}
+#productdescription {
+	text-align: justify;
+	}
+#boldtext {
+	font-weight: bold;
+}
+#productavailability {
+	background-color: darkgrey;
+	color: yellow;
+}
